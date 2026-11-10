@@ -1,0 +1,17 @@
+# Build results
+bin/
+obj/
+ReleaseBuild/
+
+# Visual Studio
+.vs/
+*.csproj.user
+*.suo
+*.user
+
+# IDE configurations
+.run/
+
+# OS files
+Thumbs.db
+.DS_Store
