@@ -1,3 +1,5 @@
+// This file controlls the logic behind stack sizes, and their IDs 
+
 using RedLoader;
 using Sons.Items.Core;
 using UnityEngine;
