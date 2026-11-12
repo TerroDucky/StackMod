@@ -1,3 +1,5 @@
+// This file creates the config options and their categories
+
 using RedLoader;
 
 namespace StackMod;
