@@ -1,3 +1,5 @@
+// Main StackMod file 
+
 using RedLoader;
 using SonsSdk;
 using SUI;
